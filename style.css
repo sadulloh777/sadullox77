@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.main{
+    width: 1240px;
+    height: 852px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 0 auto;
+    margin: 100px 484px;
+}
+.div{
+    text-align: center;
+    width: 393px;
+    height: 396px;
+}
+
